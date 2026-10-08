@@ -1108,27 +1108,33 @@ Which product should we focus on?
 
 ## Business Overview
 
-![Business Overview](docs/images/dashboard.png)
+<img width="1917" height="827" alt="image" src="https://github.com/user-attachments/assets/6c14fbb6-8640-49b6-b2e3-f5de9b74b242" />
+
 
 ## Data Upload
 
-![Data Upload](docs/images/data-upload.png)
+<img width="1902" height="845" alt="image" src="https://github.com/user-attachments/assets/5c41eda5-4e88-4673-9375-25725abc04d9" />
+
 
 ## Data Explorer
 
-![Data Explorer](docs/images/data-explorer.png)
+<img width="1917" height="847" alt="image" src="https://github.com/user-attachments/assets/6587242b-8b4b-469e-8723-d45555c86e50" />
+
 
 ## AI Assistant
 
-![AI Assistant](docs/images/ai-assistant.png)
+<img width="1916" height="838" alt="image" src="https://github.com/user-attachments/assets/5a47bbe2-5d8b-4048-b6c4-8733c1db108f" />
+
 
 ## Forecasting
 
-![Forecasting](docs/images/forecasting.png)
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/7b50ca45-f14a-4305-8ff8-0f22f2ff02e4" />
+
 
 ## Anomaly Detection
 
-![Anomaly Detection](docs/images/anomalies.png)
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/0e290a7d-0450-454b-aa6c-37e14d8dce7b" />
+
 
 ---
 
