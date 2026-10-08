@@ -1315,13 +1315,7 @@ If you find **BizInsight AI** useful, please consider giving the repository a �
 
 ---
 
-<p align="center">
 
-# 🚀 BizInsight AI
-
-### Transforming Business Data into Intelligent Decisions
-
-**Data → Intelligence → Prediction → Action**
 
 </p>
 ```
